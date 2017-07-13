@@ -1,0 +1,65 @@
+/* Page */
+html {
+	max-width: 800px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+
+/* Header */
+.header_logo {
+	float: left;
+	width: 80px;
+	height: 80px;
+	margin: color	
+}
+
+
+.header_title {
+	text-align: right;
+	padding-top: 20px;
+	font-size: 200%;
+}
+
+
+/* Navigation */
+.guide {
+	text-align: right;
+}
+
+
+/* Content */
+.advise_title {
+	font-size: 200%;
+}
+
+
+.picture01 {
+	max-width: 100%;
+    clear: both;
+    display: block;         
+    margin:auto;
+}
+
+
+.foods_picture,.traniner,.cat {		
+	float: left;
+	width: 300px;
+	height: 200px;
+    margin: 8px;	
+}
+
+
+.paragraph {
+  margin: 1em;
+  text-align: left;
+  text-align: justify;
+  max-width: 800px;
+              
+}
+
+
+
+
+
+

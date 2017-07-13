@@ -1,0 +1,47 @@
+/* Header */
+.header_logo {
+	float: left;
+	width: 80px;
+	height: 80px;
+	margin: color	 
+}
+
+
+.header_title {
+	text-align: right;
+	padding-top: 20px;
+	font-size: 160%;	
+}
+
+
+/* Navigation */
+.guide {
+	text-align: right;
+}
+
+
+/* Content */
+.advise_title {
+	font-size: 120%;
+}
+
+
+.picture01 {
+	max-width: 100%;
+    clear: both;
+    display: block;         
+    margin:auto;
+}
+
+.first_part,.second_part,.thirth_part {
+	text-align: center;
+}	
+	
+
+.foods_picture,.traniner,.cat {	
+	width: 240px; 
+	height: 160px;	
+}
+
+
+
