@@ -1,56 +1,27 @@
 /* Header */
-.header_logo {
-	float: left;
-	width: 80px;
-	height: 80px;
-	margin: color	
+.header_logo
+.logo {
+  width: 120px;
+  height: 120px;
 }
 
 
-.header_title {
-	text-align: right;
-	padding-top: 20px;
-	font-size: 200%;
+.header_title
+.title01 {
+  font-size: 200%;
+  position: absolute;
+  right: 10px;
+  top: 10px
 }
 
 
-/* Navigation */
-.guide {
-	text-align: right;
+.cutting_line {
+    border: 0;
+    color: white;
+    background-color: white; 
+    height: 1;
 }
 
-
-/* Content */
-.advise_title {
-	font-size: 200%;
-}
-
-
-.picture01 {
-	max-width: 100%;
-    clear: both;
-    display: block;         
-    margin:auto;
-}
-
-
-
-
-.foods_picture,.traniner,.cat {		
-	float: left;
-	width: 300px;
-	height: 200px;
-    margin: 8px;	
-}
-
-
-.paragraph {
-  margin: 1em;
-  text-align: left;
-  text-align: justify;
-  max-width: 800px;
-              
-}
 
 
 

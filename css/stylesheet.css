@@ -1,47 +1,82 @@
-/* Header */
-.header_logo {
-	float: left;
-	width: 80px;
-	height: 80px;
-	margin: color	 
+
+/* Header 
+.header_inner {
+  width: 100%;
+  display: flex;
+  justify-content: space-between 
+}
+*/
+
+
+.header_logo
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
 }
 
 
-.header_title {
-	text-align: right;
-	padding-top: 20px;
-	font-size: 160%;	
+.header_title
+.title01 {
+  font-size: 110%;
+  position: absolute;
+  right: 10px;
+  top: 10px
+  
 }
 
 
 /* Navigation */
+.navbar
 .guide {
-	text-align: right;
+	position: absolute;
+    right: 10px;
 }
+
+
+.cutting_line {
+    border: 0;
+    color: white;
+    background-color: white; 
+    height: 10px;
+}
+
 
 
 /* Content */
-.advise_title {
-	font-size: 120%;
+
+.picture_man {   
+    max-width: 100%;
+} 
+
+h2,
+.paragraph {
+  width: 250px;
+  height: auto;
+}
+
+.foods_picture,
+.food,
+.traniner_picture,
+.traniner,
+.cat,
+.sleeping_cat {
+  width: 250px;
+  height: 170px;
+
 }
 
 
-.picture01 {
-	max-width: 100%;
-    clear: both;
-    display: block;         
-    margin:auto;
-}
-
-.first_part,.second_part,.thirth_part {
+.first_part,
+.second_part,
+.thirth_part {
 	text-align: center;
 }	
 	
 
-.foods_picture,.traniner,.cat {	
-	width: 240px; 
-	height: 160px;	
+.container {
+  width: 100%;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
 }
-
-
-
